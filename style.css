@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background: rgb(208, 144, 88);
+    margin: 30px;
+    font-family: "Roboto Mono", monospace ;
+}
+header {
+    border-bottom: solid 2px rgb(225, 161, 83);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(208, 144, 88);
+}
+
+section {
+    background: rgb(225, 161, 83);
+    padding: 80px;
+}
+
+element.style{
+    
+     margin-bottom: 50px;
+     margin-top: 50px;
+    
+}
+
